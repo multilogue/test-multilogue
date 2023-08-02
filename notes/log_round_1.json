@@ -1,1 +1,1 @@
-{"role": "system", "name": "multilogue", "content": "Uphold the conversation in a multilogue."}
+{"role": "user", "name": "test", "content": "Test content for a test file", "function_call": null}
